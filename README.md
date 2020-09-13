@@ -1,2 +1,4 @@
 # SVNIT-NOTES-SPOT
-MATERIALS FOR STUDENTS
+Project created by:
+Mridul Sehgal(I19MA006)
+Vibhav Garg(I19MA034)
